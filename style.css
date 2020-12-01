@@ -24,6 +24,7 @@ nav .links a{
     text-decoration: none;
     padding: 0 40px;
     transition: cubic-bezier(0.075, 0.82, 0.165, 1);
+    color: rgb(80, 75, 75);
 }
 
 .logo img{
